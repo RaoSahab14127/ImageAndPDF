@@ -1,0 +1,47 @@
+Line: Index Data Monthly Report:Dow Jones-UBS Commodity
+Line: Indices
+
+Line: All data as of March 29, 2013. Values indicate percent total return. Three, five and ten-year figures are annualized.
+
+Line: ‘Source: SSP Dow Jones nsoes LLC aor is afte. Osta as of March 29, 2013. Chars and raps are proved for Mutat purposes. Past perfomance no guarantee of
+Line: ‘ture resus. Those chavs and graphs may ret! hypothetical histories paromance, Please se the Perormance Disclosure at fs end ofthis document for mere mormon
+Line: ‘egucng the rherentImatons assocated weh bac tested parrmanc.
+
+Line: Dow Jones-UBS Commodity Index
+
+Line: ‘Dow Jones-UBS Commodity Index Total
+
+Line: Return os7 4.184.006 | 30314200 -7.t1 3.67
+Line: ‘Dow Jones-UBS Roll Select Commodity
+Line: ToeRenrn ieee ose 86-195 «= -0a7 | 321 «384 = 868 10.58
+
+Line: {dae parormance data prot til calculation dats ae based on back tosing. ht calculation dts forthe Indices sted ae as folows: Dow Jones-US Commodty ox
+Line: “Total Fetum launch dat: 7/14/1906, Oow Jones-UBS Rol Sabet Commodty Total Retum Indxaunch date: 7/18/2011
+
+Line: Commodity Group Indices
+Line: Ranked by Performance
+
+Line: Daw Jones-UBS Energy Subindex Total 6.29 712 938 | 339 -733 2058 6.50
+
+Line: Return
+Line: ‘Dow Jenes-UES Petreieim Subhidex Totsl | 5 4) 3.30 0.53 ays 272-1027 = 5.00
+Line: ‘Dow Jones-UBS Precious Metals Subindex
+
+Line: oes, oss 8.46 = 629 | -740 © 13.56 = 1086 = 17.09
+Line: Dow Jones-UBS Livestock SubindexTotl | 95, gag gga | 4e1 317-716-408
+
+Line: Dow Jones-UBS ExEnergy SubindexTotal | 514 508 285 | 630 520 086 805
+
+Line: Pen iares US Sole Se To 216 320 99 | 2310 (575 156 0.17
+Line: Pow dones-UBS Agicuture Subindex Total | 54g 3.16 0 3.98 | 241 1143-108 4.02
+Line: 2 ae 250 374 1825 | 787 1478 288 = 404
+Line: ‘Dow Jones-UBS industrial Metals Subindex
+
+Line: Pew tones: 453-784 =e? | 1228 «834-860 10.79
+
+Line: [idee parrmance data poof calcdaton datos ae based on back losing. fla calcdaton date the Indices iste ae as olowe: Dow Jones UBS Ehagy Subhder
+Line: “Tota Fetum launch dat! 1/18/2001, Dow Jenes- UBS Petrleum Subinex Tota Fu lauren ct: 11/75/2001, Dow Jenoe- UBS Precous Meas Sun Tot Return aunch
+Line: ‘de: 11/18/2001, Dow dons UES Livestock Subndex Teta tur launch det: 1115/2001, Dow Jonas- US Exeneray Suneeox Total atu aunch dae: 77/2005, Dow
+Line: ‘Jones-UES Soft Subindoc Total tur launch date 11/15/2001, Dow Jonos- UES Agicsturo Subndex Total tur launch det: 7/7/2008, Dow Jones UES Grains Sunox
+Line: “Total Fotum launch dats: 11/18/2001, Dow Janos- US Indust Metis Subirdse Total Astur laurcn te 11/1/2001
+
